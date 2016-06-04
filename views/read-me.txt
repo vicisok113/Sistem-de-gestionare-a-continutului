@@ -1,0 +1,9 @@
+tempalte 1 = Sprint-Template
+template 2 = MyHome
+template 3 = Porto Classic
+template 4 = Porto Classic Color
+template 5 = Porto Classic Light
+template 6 = Porto Corporate 3
+template 7 = Porto Corporate 4
+template 8 = Porto Corporate 7
+template 9 = Porto Corporate Law Office
