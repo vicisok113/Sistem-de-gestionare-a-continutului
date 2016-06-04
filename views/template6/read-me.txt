@@ -1,0 +1,21 @@
+template 3 = porto-clasic :
+
+index.php
+
+produse.php
+
+produs.php
+
+blog.php
+
+blg.php
+
+contact.php
+
+comanda.php
+
+page.php
+
+lheader.php
+
+footer.php
